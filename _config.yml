@@ -4,10 +4,7 @@ email: andrewsw88@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just a website I'm making as I follow along with the tutorial on <i><b>Pages</b></i>.
   Nothing fancy....
-  
-  Oh...and here's a kat!
-  <img= src"/home/drubunutu/download.jpeg">
-  
+   
 # site theme
 theme: minima
 
